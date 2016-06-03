@@ -1,5 +1,8 @@
 #LE PETIT PRINCE
 
+http://princessgirly.github.io/ex-petit-prince/
+
+
 # Un site responsive pour le Petit Prince
 
 Objectif : un site (sur github pages) par personne contenant les 4 premiers chapitres du Petit Prince
